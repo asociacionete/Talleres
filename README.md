@@ -1,1 +1,1 @@
-En este repositorio reecopilamos la documentación de los talleres realizados por la asociación ETE. Para más información puede seguirnos a través de las redes sociales @asociacionete, o bien escribirnos un mail a la dirección asociacionete@gmail.com.
+En este repositorio reecopilamos la documentación de los talleres realizados por la asociación ETE. Para más información puede consultar nuestra página web asociacionete.es, seguirnos a través de las redes sociales @asociacionete, o bien escribirnos un mail a la dirección asociacionete@gmail.com.
