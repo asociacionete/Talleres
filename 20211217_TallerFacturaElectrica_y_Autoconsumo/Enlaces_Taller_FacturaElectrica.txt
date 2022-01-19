@@ -1,0 +1,16 @@
+Web distribuidora para ver consumo por horas y periodos, y de demanda de potencia: 
+https://www.i-de.es/consumidores/web/guest/login
+Enlace para ver el precio de mercado mayorista:
+https://www.omie.es/
+Web para ver el mercado de futuros (diarios, semanales, meses, cuatrimestres, años): 
+https://www.omip.pt/es
+Precios horarios PVPC (Precio voluntario para el pequeño consumidor): 
+https://www.esios.ree.es/es/pvpc 
+Demanda eléctrica en tipo real y composición del mix: 
+https://demanda.ree.es/visiona/peninsula/demanda/total
+Mapa de emisiones en tiempo real por paises: 
+https://app.electricitymap.org/map
+
+Un par de artículos con tarifas de diciembre:
+https://tarifaluzhora.es/comparador/tarifas-electricas
+https://www.companias-de-luz.com/contratar-luz/que-tarifa/
